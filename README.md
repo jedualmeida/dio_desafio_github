@@ -2,5 +2,6 @@
 Primeiro repositório criado através do "Desafio de Projeto" da plataforma DIO;
 
 
-## Links úteis
+## Links úteis:
+[Download do Git](https://git-scm.com/downloads)  
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
