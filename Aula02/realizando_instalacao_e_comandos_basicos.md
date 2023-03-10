@@ -26,8 +26,8 @@ A primeira coisa que você deve fazer quando instalar o Git é definir o seu nom
 Se você precisar de ajuda ao usar Git, existem três maneiras de obter a ajuda para qualquer um dos comandos Git:
 
 *git help {comando}*                                     
-*git {comando} --help  *                                          
-*man git- {comando}    *                                    
+*git {comando} --help*                                          
+*man git- {comando}*                                    
 
 
 ### git init
