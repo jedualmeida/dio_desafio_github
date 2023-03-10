@@ -8,7 +8,7 @@ Dentro deste universo, o objetivo do Git é **registrar todas as mudanças feita
 
 Entendendo alguns conceitos:
 
-- Ser ***opensource\*** significa que o Git é um software de livre utilização, ou seja, permite que  qualquer pessoa com conhecimentos de programação use-o, modifique-o e  aprimore-o;
+- Ser ***opensource*** significa que o Git é um software de livre utilização, ou seja, permite que  qualquer pessoa com conhecimentos de programação use-o, modifique-o e  aprimore-o;
 - Dizer que o Git faz **controle de versões** é a mesma coisa que dizer que ele armazena conteúdo e mantém um histórico das alterações feitas nele (seja por apenas um usuário ou muitos outros);
 - O fato de ser um **sistema distribuído** significa que cada diretório de trabalho do Git é um repositório com um histórico completo e habilidade total de acompanhamento das revisões,  independente de acesso a uma rede ou a um servidor central. Cada  desenvolvedor tem, na sua máquina, acesso ao histórico completo do código trabalhado.
 
