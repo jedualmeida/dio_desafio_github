@@ -20,6 +20,7 @@ A primeira coisa que você deve fazer quando instalar o Git é definir o seu nom
 git config --global user.name "Seu.Nome"                                            
 git config --global user.email seu.email@example.com.br                                     
 
+
 ### git help
 
 Se você precisar de ajuda ao usar Git, existem três maneiras de obter a ajuda para qualquer um dos comandos Git:
@@ -27,6 +28,7 @@ Se você precisar de ajuda ao usar Git, existem três maneiras de obter a ajuda 
 git help {comando}                                            
 git {comando} --help                                            
 man git- {comando}                                        
+
 
 ### git init
 
@@ -36,11 +38,13 @@ git init
 
 Isso cria um novo subdiretório oculto chamado **.git** que contem todos os arquivos necessários do seu repositório. Neste ponto, nada em seu projeto é monitorado.
 
+
 ### git clone
 
 Você clona um repositório público existente no Github, basta copiar a **URL HTTPS** do diretório e digitar o comando:
 
 git clone <link https do repositorio a ser clonado>
+
 
 ### git status
 
@@ -50,16 +54,19 @@ git status
 
 O comando lhe mostra em qual ***branch*** você se encontra e os estados em que os arquivos e pastas do repositório estão.
 
+
 ### git commit
 
 Armazena o conteúdo atual do índice em um novo commit, juntamente com uma mensagem de registro do usuário que descreve as mudanças.                                            
 Se usa o commit depois de já ter feito o **git add**, para fazer o commit:
+
 
 git commit -m "Mensagem"
 
 Para commitar também os arquivos versionados mesmo não estando no Stage basta adicionar o parâmetro -a
 
 git commit **-a** -m "Mensagem"
+
 
 ### git push
 
