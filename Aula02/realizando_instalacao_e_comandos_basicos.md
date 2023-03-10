@@ -17,8 +17,8 @@ A primeira coisa que você deve fazer quando instalar o Git é definir o seu nom
 
 *Obs: utilize o mesmo **username** e **e-mail** cadastrado no Github*!
 
-git config --global user.name "Seu.Nome"                                            
-git config --global user.email seu.email@example.com.br                                     
+*/git config --global user.name "Seu.Nome"                                            
+git config --global user.email seu.email@example.com.br\*                                 
 
 
 ### git help
